@@ -35,3 +35,9 @@ int main(int arge,char* argv[])
 	cout<<endl;
 	return 0;
 }
+
+OUTPUT:
+enter real value of complex number:12
+enter imaginary value of complex number:3
+entered complex number:
+12+3i
